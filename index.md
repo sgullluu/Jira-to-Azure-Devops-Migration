@@ -14,7 +14,7 @@ The key capabilities of the tool include:
 > -	Area/Iteration paths can be defaulted to a specific value when they don't exist in the target project.
 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Migration Architecture](https://github.com/sgullluu/Jira-to-Azure-Devops-Migration/blob/main/Pics/solidfy%20arch.png)
 
  
 
