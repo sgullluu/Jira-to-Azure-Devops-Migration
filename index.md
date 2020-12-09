@@ -17,7 +17,7 @@ The key capabilities of the tool include:
 ![Migration Architecture](/Jira-to-Azure-Devops-Migration/Pics/solidfy arch.png)
   
 https://github.com/sgullluu/Jira-to-Azure-Devops-Migration/blob/main/Steps.md</br>
-[Next](/Jira-to-Azure-Devops-Migration/steps.md)
+[Next](/Jira-to-Azure-Devops-Migration/Steps.md)
  
 
 
