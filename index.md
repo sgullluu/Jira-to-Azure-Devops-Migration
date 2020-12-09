@@ -5,16 +5,16 @@ The Jira to Azure DevOps work item migration tool lets you export data from Jira
 
 The key capabilities of the tool include:
 
-> -Jira items are exported based on JQL queries.
+> - Jira items are exported based on JQL queries.
 > -	Users can be translated during migration to maintain proper history.
->	-Field mapping is provided to map fields from the source to target account based on configuration file.
+>	- Field mapping is provided to map fields from the source to target account based on configuration file.
 > -	State mapping between Jira and Azure DevOps states.
 > -	History from Jira is maintained.
 > -	Dates such as created or changed date are maintained.
 > -	Area/Iteration paths can be defaulted to a specific value when they don't exist in the target project.
 
 
-![Migration Architecture](https://github.com/sgullluu/Jira-to-Azure-Devops-Migration/blob/main/Pics/solidfy%20arch.png)
+![Migration Architecture](Jira-to-Azure-Devops-Migration/Pics/solidfy arch.png)
 
  
 
