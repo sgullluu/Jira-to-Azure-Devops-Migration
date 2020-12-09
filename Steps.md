@@ -1,4 +1,9 @@
-<h2>Steps of Migration Process: </h2>
+---
+layout : minima
+
+---
+
+<h2> Steps of Migration Process: </h2>
 
 1.	Mapping of states and fields for projects in JIRA according to Azure DevOps Projects. 
 2.	Configuration of projects in Azure DevOps according to the forms of JIRA.
