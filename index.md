@@ -7,7 +7,7 @@ The key capabilities of the tool include:
 
 > - Jira items are exported based on JQL queries.
 > -	Users can be translated during migration to maintain proper history.
->	- Field mapping is provided to map fields from the source to target account based on configuration file.
+> - Field mapping is provided to map fields from the source to target account based on configuration file.
 > -	State mapping between Jira and Azure DevOps states.
 > -	History from Jira is maintained.
 > -	Dates such as created or changed date are maintained.
