@@ -14,7 +14,7 @@ The key capabilities of the tool include:
 > -	Area/Iteration paths can be defaulted to a specific value when they don't exist in the target project.
 
 
-![Migration Architecture](Jira-to-Azure-Devops-Migration/Pics/solidfy arch.png)
+![Migration Architecture](/Pics/solidfy arch.png)
 
  
 
