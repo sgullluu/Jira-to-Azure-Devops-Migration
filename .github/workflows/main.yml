@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
-          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
-          github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
-          ado_organization: "ado_organization_name"
-          ado_project: "your_project_name"
+          ado_token: "${{ secrets.ADO_SECRET }}"
+          github_token: "${{ secrets.GIT_PAT }}"
+          ado_organization: "AzureDevopsWorld"
+          ado_project: "Boards"
           ado_area_path: "optional_area_path\\optional_area_path"
           ado_iteration_path: "optional_iteration_path\\optional_iteration_path"
           ado_wit: "User Story"
